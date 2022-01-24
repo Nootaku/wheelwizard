@@ -1,4 +1,12 @@
-# Wheel WheelWizard
+# <img src="/home/nootaku/dev/wheel_wizard/resources/img/title.png" style="zoom:33%;" />
+
+## Download and install on Android
+
+1. Download the `.apk` :  [wheel_wizard_0.0.2](foo)
+2. Transfer the `.apk` to your phone
+3. Install the `.apk` on your phone
+
+*Note: As I don't have an Android Developer Account, you might get security warnings when installing the app. Feel free to look at the code before installing the app if you don't trust me. I would strongly encourage this endeavor as I believe it is something important to do for all applications.*
 
 ## Install dependency
 

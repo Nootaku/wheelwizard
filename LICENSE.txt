@@ -1,0 +1,24 @@
+WHEEL WIZARD LICENSE
+
+By downloading the Wheel Wizard application you agree to the following license.
+
+This license is likely to change in the future. You agree to its modifications.
+You will be able to find all modifications on this page.
+
+'the software', 'wheel wizard' refers to the application that can be used on an Android-powered device
+'the code' refers to the text files that run the software. It can be found on Github
+'you' or 'the user' defines the person downloading and/or using the software
+'us' refers to Maxime Wattez
+
+
+CORE CONCEPTS:
+- Source code available: free to read, and copy the source code
+- Software license is not free: a temporary license is given to you by us
+- The license allows the user to download and use the software free of charge
+- The license does NOT allow the user to redistribute, modify or sell the software or the code without the explicit written agreement of Maxime Wattez
+- The license allows the code to be read and analyzed.
+  - this includes the copy of pieces of code FOR OTHER PROJECTS
+  - please play fair, you know the difference between problem-solving and a copying a project.
+
+CONTACT:
+mwattez@pm.net
