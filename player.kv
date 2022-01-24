@@ -1,0 +1,32 @@
+<PlayerWidget>:
+    id: player_widget
+    name: 'player'
+
+    GridLayout:
+        cols: 1
+        # orientation: 'vertical'
+        spacing: 25
+        padding: 21
+        MDRectangleFlatIconButton:
+            id: top_bar_button
+            icon: 'arrow-left-bold'
+            text: 'Back'
+            theme_text_color: "Custom"
+            text_color: 1, 192 / 255, 34 / 255, 1
+            line_color: 1, 192 / 255, 34 / 255, 1
+            theme_icon_color: "Custom"
+            icon_color: 1, 192 / 255, 34 / 255, 1
+            adaptive_width: True
+
+            on_press:
+                video_player.state = 'stop'
+                player_widget.getVideoFolder(video_player.source)
+            on_release: app.root.current = player_widget.return_to
+
+        BoxLayout:
+            VideoPlayer:
+                id: video_player
+                allow_fullscreen: True
+                source: app.video_path
+                state: 'play'
+        Widget:
