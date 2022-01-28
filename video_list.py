@@ -18,63 +18,63 @@ VIDEO_LIST = {
                 },
             ],
             'slides': [
-                {
-                    'name': 'Powerslide',
-                    'file': '02_soul_slide.mp4',
-                },
+                # {
+                #     'name': 'Powerslide',
+                #     'file': '02_soul_slide.mp4',
+                # },
                 {
                     'name': 'Soul Slide',
                     'file': '02_soul_slide.mp4',
                 },
-                {
-                    'name': 'Acid Slide',
-                    'file': '02_soul_slide.mp4',
-                },
+                # {
+                #     'name': 'Acid Slide',
+                #     'file': '02_soul_slide.mp4',
+                # },
             ],
             'slalom': [
                 {
                     'name': 'Fish',
-                    'file': '00_test.mp4',
+                    'file': '01_fish.mp4',
                 },
                 {
                     'name': 'Snake',
-                    'file': '00_test.mp4',
+                    'file': '02_snake.mp4',
                 },
                 {
                     'name': 'Cross',
-                    'file': '00_test.mp4',
+                    'file': '03_cross.mp4',
                 },
                 {
                     'name': 'Double Cross',
-                    'file': '00_test.mp4',
+                    'file': '04_double_cross.mp4',
                 },
                 {
                     'name': 'Heel-Toe Snake',
-                    'file': '00_test.mp4',
+                    'file': '05_heel_toe_snake.mp4',
                 },
                 {
                     'name': 'Toe-Toe Snake',
-                    'file': '00_test.mp4',
+                    'file': '06_toe_toe_snake.mp4',
                 },
                 {
                     'name': 'Heel-Heel Snake',
-                    'file': '00_test.mp4',
+                    'file': '07_heel_heel_snake.mp4',
                 },
                 {
                     'name': 'Eagle',
-                    'file': '00_test.mp4',
+                    'file': '08_eagle.mp4',
                 },
                 {
                     'name': 'Chap Chap',
-                    'file': '00_test.mp4',
+                    'file': '09_chap_chap.mp4',
                 },
                 {
                     'name': 'Crazy',
-                    'file': '00_test.mp4',
+                    'file': '10_crazy.mp4',
                 },
                 {
                     'name': 'Nelson',
-                    'file': '00_test.mp4',
+                    'file': '11_nelson.mp4',
                 },
 
             ],
@@ -89,11 +89,11 @@ VIDEO_LIST = {
                 },
                 {
                     'name': 'Powerstop',
-                    'file': '00_test.mp4',
+                    'file': '03_power_stop.mp4',
                 },
-                {
-                    'name': 'Jump',
-                    'file': '00_test.mp4',
-                },
+                # {
+                #     'name': 'Jump',
+                #     'file': '00_test.mp4',
+                # },
             ]
         }
